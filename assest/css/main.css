@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+body {
+	background-color: #fafafa;
+	font-family: "Comfortaa", sans-serif;
+}
+
+.navbar {
+	background-color: #F1D2D8;
+    padding: 0px;
+}
+
+.container-fluid {
+	padding: 0px;
+}
+
+.navbar-brand img {
+	text-align: center;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+    margin-top: 1rem;
+}
+
+.h4test {
+	font-weight: 700;
+}
+
+.studying {
+	padding-top: 2rem;
+}
+
+.whostudying_text p {
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.list-group-item {
+    background-color: transparent;
+}
